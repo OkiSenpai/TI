@@ -7,7 +7,7 @@ ul {
   padding: 0 75px;
   align-items: center;
   background-color: #ccc;
-  border: 1px solid #000;
+  border: 2px solid #000;
   border-radius: 10px;
 }
 
@@ -15,7 +15,8 @@ body {
   margin: 0;
 }
 
-header {
+header,
+main {
   margin: auto;
 }
 
@@ -25,7 +26,8 @@ a {
 }
 
 header,
-.banniere {
+.banniere,
+main {
   width: 1280px;
 }
 
@@ -63,4 +65,12 @@ header h1 {
   transform: translate(-50%, -50%);
   border-radius: 10px;
   text-align: center;
+}
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+header {
+  overflow: visible;
 }
