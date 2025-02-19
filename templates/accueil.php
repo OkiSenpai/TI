@@ -21,7 +21,7 @@
     <main>
         <!-- <div class="sticky">I am sticky!</div> -->
         <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
-        <img src="img/armoiries.png" alt="armoiries.png">
+        <img class="firstPicMain" src="img/armoiries.png" alt="armoiries.png">
 
         <p class="text">Amsterdam est la capitale des Pays-Bas, bien que le gouvernement ainsi que la plupart des
             institutions
@@ -62,6 +62,14 @@
             ainsi que pour ses nombreux coffee shops possédant une licence leur permettant de commercialiser le
             cannabis, reflétant le progressisme politique des Pays-Bas.
         </p>
+        <ul>
+            <li><a href="?p=geographie">Geographie</a></li>
+            <li><a href="?p=histoire">Histoire</a></li>
+            <li><a href="?p=culture">Culture</a></li>
+            <li><a href="?p=galerie">Galerie</a></li>
+            <li><a href="?p=contact">Contact</a></li>
+            <li><a href="?p=liens">Liens</a></li>
+        </ul>
 
 
 
