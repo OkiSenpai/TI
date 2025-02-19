@@ -63,12 +63,12 @@
             cannabis, reflétant le progressisme politique des Pays-Bas.
         </p>
         <ul>
-            <li><a href="?p=geographie">Geographie</a></li>
-            <li><a href="?p=histoire">Histoire</a></li>
-            <li><a href="?p=culture">Culture</a></li>
-            <li><a href="?p=galerie">Galerie</a></li>
-            <li><a href="?p=contact">Contact</a></li>
-            <li><a href="?p=liens">Liens</a></li>
+            <li><a href="?p=geographie">Une bréve présentation de Amsterdam </a></li>
+            <li><a href="?p=histoire">Un rappel historique, de sq fondqtion à aujour'hui</a></li>
+            <li><a href="?p=culture">Un tour d'horizona en matiére d'art et culture</a></li>
+            <li><a href="?p=galerie">Une galerie de photographies</a></li>
+            <li><a href="?p=contact">Un formulaire pour nous contacter</a></li>
+            <li><a href="?p=liens">Des liens vers des sites partenaires</a></li>
         </ul>
 
 

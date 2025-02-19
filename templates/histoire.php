@@ -18,8 +18,8 @@
 </body>
 
 <main>
-    <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
-    <img class="firstPicMain" src="img/histoire.jpg" alt="armoiries.png">
+    <h2>Historie</h2>
+    <img class="firstPicMain" src="img/histoire.jpg" alt="istoire.png">
     <div class="content">
 
         <h3>Fondation et développement au Moyen Âge</h3>

@@ -10,9 +10,19 @@
 
 <body>
     <header>
+        <h1>Erreur 404</h1>
+        <?php include '../templates/inc/banniere.php' ?>
         <?php include '../templates/inc/menu.php'; ?>
     </header>
-    <h1>Erreur 404</h1>
+    <main>
+        <h2>Erreur 404</h2>
+        <img src="img/404.jpg" alt="erreur 404">
+        <p>La page que vous cherchez n'existe pas.</p>
+        <br><br>
+        <p>Le mieux est de retourner à l'accueil</p>
+        <p></p>
+    </main>
+
 </body>
 
 </html>

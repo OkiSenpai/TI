@@ -18,7 +18,7 @@
 
     <main>
         <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
-        <img class="firstPicMain" src="img/geographie.png" alt="armoiries.png">
+        <img class="firstPicMain" src="img/geographie.png" alt="geographie.png">
 
         <p class="text">Située à l'ouest des Pays-Bas, Amsterdam fait partie de la province de Hollande-Septentrionale
             et est située à proximité immédiate de celles d'Utrecht et du Flevoland. Le fleuve Amstel vient se jeter
