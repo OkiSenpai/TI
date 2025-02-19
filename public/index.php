@@ -1,7 +1,7 @@
 <?php
 
-if (isset($_POST["p"])) {
-    switch ($_POST["p"]) {
+if (isset($_GET["p"])) {
+    switch ($_GET["p"]) {
         case "geographie":
             include '../templates/geographie.php';
             break;
@@ -20,11 +20,9 @@ if (isset($_POST["p"])) {
         case 'liens':
             include '../templates/liens.php';
             break;
-        case 'page-404':
+        default:
             include '../templates/page-404.php';
             break;
-        default:
-            include '../templates/accueil.php';
     }
 } else {
     include '../templates/accueil.php';

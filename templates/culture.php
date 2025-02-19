@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Culture</title>
 </head>
 
 <body>
@@ -12,7 +13,7 @@
         <?php include '../templates/inc/banniere.php' ?>
         <?php include '../templates/inc/menu.php'; ?>
     </header>
-
+    <h1>Culture</h1>
 </body>
 
 </html>
