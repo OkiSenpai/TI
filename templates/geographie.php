@@ -17,7 +17,6 @@
 
 
     <main>
-        <!-- <div class="sticky">I am sticky!</div> -->
         <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
         <img class="firstPicMain" src="img/geographie.png" alt="armoiries.png">
 
