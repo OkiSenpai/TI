@@ -1,3 +1,3 @@
 <div class="banniere">
-    <img src="img/banniere.jpg" alt="">
+    <img class="banniere" src="img/banniere.jpg" alt="">
 </div>
