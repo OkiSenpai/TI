@@ -9,9 +9,12 @@
 </head>
 
 <body>
-    <header>
-        <h1>Geographie</h1>
+    <div class="bannereContainer">
+        <h1>Accueil</h1>
         <?php include '../templates/inc/banniere.php' ?>
+    </div>
+    <header>
+
         <?php include '../templates/inc/menu.php'; ?>
     </header>
 
