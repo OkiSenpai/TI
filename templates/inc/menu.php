@@ -1,5 +1,5 @@
 <nav>
-    <ul>
+    <ul class="sticky">
         <li><a href="./">Accueil</a></li>
         <li><a href="?p=geographie">Geographie</a></li>
         <li><a href="./?p=histoire">Histoire</a></li>

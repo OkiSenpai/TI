@@ -10,14 +10,16 @@
 
 <body>
     <header>
+        <h1>Accueil</h1>
         <?php include '../templates/inc/banniere.php' ?>
+
 
         <?php include '../templates/inc/menu.php'; ?>
 
 
     </header>
+    <div class="sticky">I am sticky!</div>
 
-    <h1>Accueil</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure culpa adipisci, optio facilis eos natus molestias.
         Alias a voluptatem, magnam magni enim, saepe dolorem molestias repudiandae, dolore consectetur doloribus eos.
     </p>
