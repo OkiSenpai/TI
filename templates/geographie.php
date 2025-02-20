@@ -23,7 +23,7 @@
         <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
         <img class="firstPicMain" src="img/geographie.png" alt="geographie.png">
 
-        <p class="text">Située à l'ouest des Pays-Bas, Amsterdam fait partie de la province de Hollande-Septentrionale
+        <p>Située à l'ouest des Pays-Bas, Amsterdam fait partie de la province de Hollande-Septentrionale
             et est située à proximité immédiate de celles d'Utrecht et du Flevoland. Le fleuve Amstel vient se jeter
             dans l'IJ et est intégrée à un réseau de canaux qui parsèment la ville. Cette dernière est située à deux
             mètres au-dessus du niveau de la mer. Les terres autour de la ville sont plates et formées de grands
@@ -33,7 +33,7 @@
         </p>
 
         <br>
-        <p class="text">
+        <p>
             La ville d'Amsterdam a une superficie totale de 219,33 kilomètres carrés, dont 164,89 km ² de terres.terres.
             La densité de population absolue est donc de 3 653 habitants par km ², mais est en réalité de 4 848
             hab./km ² sur la base des terres habitables, avec une offre en logements de 2 408 foyers par kilomètre
@@ -42,7 +42,7 @@
             surface totale, tandis que les bois et forêts en représentent 2,3 %.
         </p>
         <br>
-        <p class="text">
+        <p>
             Amsterdam possède un climat océanique (Cf dans la classification de Köppen) fortement influencé par la
             proximité de la mer du Nord à l'ouest et avec des vents d'ouest dominants. Amsterdam, ainsi que la plus
             grande partie de la province de Hollande-Septentrionale, se trouve dans une zone de rusticité de type 8b,
@@ -54,7 +54,7 @@
             d'Amsterdam.
         </p>
         <br>
-        <p class="text">
+        <p>
             Les températures estivales sont modérément chaudes, avec une moyenne de 22,1 °C au mois d'août, et quelques
             pointes à 30 °C qui se maintiennent rarement plus de trois jours d'affilée. Le record pour ce qui est de
             l'écart de température annuelle va de −24 °C à 36,8 °C. Les précipitations à Amsterdam sont fréquentes avec

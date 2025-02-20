@@ -140,11 +140,11 @@ label,
 input {
   display: inline;
 }
-input,textarea{
+input,
+textarea {
   margin-left: 60px;
 }
 form {
- 
   padding: 20px;
 }
 .form-group {
@@ -155,8 +155,9 @@ form {
 label {
   margin-right: 10px;
   font-weight: bold;
-  width: 80px; /* Možete prilagoditi širinu labela */
+  width: 80px;
 }
-input[type="text"],
-input[type="email"],
 
+p {
+  margin: 0 15px;
+}
