@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="bannereContainer">
+    <div id="buner" class="bannereContainer">
         <h1>Histoire</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
@@ -21,7 +21,7 @@
 
 </body>
 
-<main>
+<main id="main">
     <h2>Historie</h2>
     <img class="firstPicMain" src="img/histoire.jpg" alt="istoire.png">
     <div class="content">
@@ -198,7 +198,7 @@
 
 
 
-
+    <button class="btnUp"> <a class="aBtn" href="#buner">GO UP</a> </button>
 
 </main>
 

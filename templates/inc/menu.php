@@ -1,12 +1,12 @@
 <nav class="nav-bar">
     <ul class="ul">
-        <li><a href="./">Accueil</a></li>
-        <li><a href="?p=geographie">Geographie</a></li>
-        <li><a href="./?p=histoire">Histoire</a></li>
-        <li><a href="./?p=culture">Culture</a></li>
-        <li><a href="./?p=galerie">Galerie</a></li>
-        <li><a href="./?p=contact">Contact</a></li>
-        <li><a href="./?p=liens">Liens</a></li>
+        <li><a class="aNav" href="./">Accueil</a></li>
+        <li><a class="aNav" href="?p=geo">Geographie</a></li>
+        <li><a class="aNav" href="./?p=hist">Histoire</a></li>
+        <li><a class="aNav" href="./?p=cult">Culture</a></li>
+        <li><a class="aNav" href="./?p=gal">Galerie</a></li>
+        <li><a class="aNav" href="./?p=form">Contact</a></li>
+        <li><a class="aNav" href="./?p=link">Liens</a></li>
     </ul>
 
 </nav>

@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="bannereContainer">
+    <div id="buner" class="bannereContainer">
         <h1>Culture</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
@@ -360,11 +360,16 @@
                 Dennis Bergkamp (1969), footballeur
                 Ruud Gullit (1962), footballeur
                 Lale Gül (1997), écrivaine.</p>
+
+        </div>
+                <button class="btnUp"><a  class="aBtn" href="#buner">GO UP</a></button>
     </main>
 
 
 
-    </div>
+
+   
+
 </body>
 
 </html>

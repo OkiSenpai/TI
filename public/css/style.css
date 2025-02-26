@@ -16,6 +16,8 @@ li {
 
 a {
   list-style: none;
+  color: white;
+  text-decoration: none;
 }
 
 body {
@@ -80,7 +82,7 @@ header {
   top: 0;
 }
 
-a:hover {
+.aNav:hover {
   background-color: #a90331;
   color: #fff;
 }
@@ -159,5 +161,18 @@ label {
 }
 
 p {
-  margin: 0 15px;
+  margin: 0 15px 15px 15px;
 }
+.btnUp {
+  width: 100px;
+  height: 30px;
+  background-color: #A90331;
+  border-radius: 10px;
+}
+.btnUp:hover {
+  cursor: pointer;
+  background-color: darkblue;
+ 
+}
+
+

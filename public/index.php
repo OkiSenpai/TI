@@ -2,27 +2,27 @@
 
 if (isset($_GET["p"])) {
     switch ($_GET["p"]) {
-        case "geographie":
+        case "geo":
             include '../templates/geographie.php';
             $title = "Géographie";
             break;
-        case 'histoire':
+        case 'hist':
             include '../templates/histoire.php';
             $title = 'Histoire';
             break;
-        case 'culture':
+        case 'cult':
             include '../templates/culture.php';
             $title = 'Culture';
             break;
-        case 'galerie':
+        case 'gal':
             include '../templates/galerie.php';
             $title = 'Galerie';
             break;
-        case 'contact':
+        case 'form':
             include '../templates/contact.php';
             $title = 'Contact';
             break;
-        case 'liens':
+        case 'link':
             include '../templates/liens.php';
             $title = 'Liens';
             break;
