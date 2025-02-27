@@ -10,7 +10,7 @@
 
 <body>
     <div class="bannereContainer">
-        <h1>Galerie</h1>
+        <h1>Amsterdam</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
     <header>
@@ -24,7 +24,7 @@
 
         <table class="tableGalery">
             <tr>
-                <td><img class="imgGalery" src="img/480px_Amsterdam_Begijnhof_2008" alt="Image 1"></td>
+                <td><img class="imgGalery" src="img/480px_Amsterdam_Begijnhof_2008.jpg" alt="Image 1"></td>
                 <td><img class="imgGalery" src="img/480px_Amsterdam_Grachten.jpg" alt="Image 2"></td>
             </tr>
             <tr>

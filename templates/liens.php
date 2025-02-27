@@ -10,7 +10,7 @@
 
 <body>
     <div class="bannereContainer">
-        <h1>Liens</h1>
+        <h1>Amsterdam</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
     <header>
@@ -28,28 +28,28 @@
 
     <div class="citysContainer">
         <ul>
-            <li><a href="">Berlin</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/massine/WEB%20T.I.1/public/index.php">Berlin</a></li>
             <li><a href="">Vienne</a></li>
-            <li><a href="">Paris</a></li>
-            <li><a href="">Madrid</a></li>
-            <li><a href="">Rome</a></li>
-            <li><a href="">Londres</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/reda/ti1/public/">Paris</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/samuel/ti1/public/">Madrid</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/sola/First-TI/public/">Rome</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/mykyta/TI1/public/">Londres</a></li>
         </ul>
         <ul>
-            <li><a href="">Lisbonne</a></li>
-            <li><a href="">Prague</a></li>
-            <li><a href="">Amsterdam</a></li>
-            <li><a href="">Copenhague</a></li>
-            <li><a href="">Dublin</a></li>
-            <li><a href="">Athènes</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/said/TI1/public/">Lisbonne</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/jean-michael/T.I.1/public/?p=hist">Prague</a></li>
+            <li><a href="./">Amsterdam</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/nordine/TI1/public/">Copenhague</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/agim/Ti1/public/">Dublin</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/soulaiman/T.I.1/public/index.php">Athènes</a></li>
         </ul>
         <ul>
-            <li><a href="">Sofia</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/jeremy/TI1/public/?p=accueil">Sofia</a></li>
             <li><a href="">Varsovie</a></li>
-            <li><a href="">Helsinki</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/loukas/ti1/public/index.php">Helsinki</a></li>
             <li><a href="">Stockholm</a></li>
-            <li><a href="">Oslo</a></li>
-            <li><a href="">Budapest</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/geraldine/TI1/public/">Oslo</a></li>
+            <li><a href="https://2025.webdev-cf2m.be/vahagn/ti1/public/index.php">Budapest</a></li>
 
         </ul>
     </div>

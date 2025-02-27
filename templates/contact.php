@@ -10,7 +10,7 @@
 
 <body>
     <div class="bannereContainer">
-        <h1>Contact</h1>
+        <h1>Amsterdam</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
     <header>

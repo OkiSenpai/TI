@@ -10,7 +10,7 @@
 
 <body>
     <div class="bannereContainer">
-        <h1>Erreur 404</h1>
+        <h1>Amsterdam 404</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
     <header>

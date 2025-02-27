@@ -9,8 +9,8 @@
 </head>
 
 <body>
-    <div class="bannereContainer">
-        <h1>Accueil</h1>
+    <div id="up" class="bannereContainer">
+        <h1>Amsterdam</h1>
         <?php include '../templates/inc/banniere.php' ?>
     </div>
 
