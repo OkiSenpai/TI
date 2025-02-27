@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <title>Culture</title>
+    <title><?php echo $title ?></title>
 </head>
 
 <body>
@@ -362,13 +362,13 @@
                 Lale Gül (1997), écrivaine.</p>
 
         </div>
-                <button class="btnUp"><a  class="aBtn" href="#buner">GO UP</a></button>
+        <button class="btnUp"><a class="aBtn" href="#buner">GO UP</a></button>
     </main>
 
 
 
 
-   
+
 
 </body>
 

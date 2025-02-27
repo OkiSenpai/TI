@@ -16,7 +16,6 @@ li {
 
 a {
   list-style: none;
-  color: white;
   text-decoration: none;
 }
 
@@ -166,13 +165,10 @@ p {
 .btnUp {
   width: 100px;
   height: 30px;
-  background-color: #A90331;
+  background-color: #a90331;
   border-radius: 10px;
 }
 .btnUp:hover {
   cursor: pointer;
   background-color: darkblue;
- 
 }
-
-

@@ -29,7 +29,7 @@
         <h2>Bienvenue sur notre site consacré a Amsterdam</h2>
         <img class="firstPicMain" src="img/armoiries.png" alt="armoiries.png">
 
-        <p class="text">Amsterdam est la capitale des Pays-Bas, bien que le gouvernement ainsi que la plupart des
+        <p>Amsterdam est la capitale des Pays-Bas, bien que le gouvernement ainsi que la plupart des
             institutions
             nationales
             siègent à La Haye. Sur la base des chiffres de l'année 2017, la commune d'Amsterdam compte plus de 850 000
@@ -44,7 +44,7 @@
             dernier étant Haarlem, situé à 19 kilomètres à l'ouest d'Amsterdam.
         </p>
         <br>
-        <p class="text">
+        <p>
             Amsterdam est l'un des centres économiques majeurs des Pays-Bas et l'un des principaux centres financiers
             d'Europe. Les sièges sociaux de plusieurs firmes multinationales (Philips, AkzoNobel, ING et TomTom
             notamment) sont situés dans la ville et d'autres ont leurs bureaux européens basés à Amsterdam
@@ -56,7 +56,7 @@
             néerlandais et la Maison Anne Frank.
         </p>
         <br>
-        <p class="text">
+        <p>
             Divers classements placent Amsterdam parmi les métropoles mondiales offrant le meilleur confort de vie, le
             magazine américain Forbes la positionnant à la première place en 2016 pour les jeunes adultes ; elle
             également désignée en 2016 comme capitale européenne de l'innovation. Selon l'Economist Intelligence Unit,
